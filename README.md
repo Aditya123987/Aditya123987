@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aditya Prakash.
-- 👀 I’m interested in Web Development and solving  coding problems.
-- 🌱 I’m currently learning more things in Web Development.
+- 👀 I’m interested in Web Development, System Development and solving  coding problems.
 - 📫 You can reach me through my email "adityaprakash108798@gmail.com".
 
 <!---
